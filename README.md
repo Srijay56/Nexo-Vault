@@ -15,5 +15,5 @@ streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run NexoVault.py
    ```
