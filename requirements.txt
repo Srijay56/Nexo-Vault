@@ -1,1 +1,18 @@
-streamlit
+#Download these libraries using pip install "library name "
+
+import streamlit as st
+import pandas as pd
+import numpy as np
+import plotly.graph_objects as go
+from datetime import datetime, timedelta
+import hashlib
+import json
+import time
+import random
+import base64
+from PIL import Image
+from io import BytesIO
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline
+import uuid
